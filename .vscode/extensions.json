@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "hollowtree.vue-snippets",
+    "Vue.vscode-typescript-vue-plugin",
+    "Vue.volar",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+  ]
+}
