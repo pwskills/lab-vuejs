@@ -1,4 +1,4 @@
-# neurolab-vuejs
+# lab-vuejs
 
 ## Project setup
 ```
